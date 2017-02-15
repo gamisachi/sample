@@ -1,1 +1,2 @@
-SamplE
+日本語
+samplE
